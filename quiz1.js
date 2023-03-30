@@ -38,7 +38,7 @@ let messages = [
         date: "2/4/2022",
         msg: "Good video",
         like: 1000,
-    }
+    },
     {
         name: "user2",
         date: "10/5/2022",
